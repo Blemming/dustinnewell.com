@@ -6,7 +6,7 @@ import App from './App.vue'
 import ityped from 'ityped'
 import Bulma from 'bulma'
 import FontAwesome from 'font-awesome/css/font-awesome.css'
-import svgIcon from './assets/svg-icon-element'
+// import svgIcon from './assets/svg-icon-element'
 
 new Vue({
   el: '#app',

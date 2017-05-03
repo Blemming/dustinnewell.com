@@ -1,4 +1,3 @@
-
 <template lang="html">
     <div class="container">
         <!--?xml version="1.0" encoding="utf-8"? -->
@@ -13,8 +12,7 @@
                 </symbol>
                 <symbol viewBox="0 0 256 204" preserveAspectRatio="xMidYMid" aria-labelledby="ahasi-logos-couchdb-title" id="si-logos-couchdb">
                     <title id="ahasi-logos-couchdb-title">logo of couchdb</title>
-                    <path d="M234.287 57.171V12.823H21.774v44.348H5.147v90.869h245.446V57.17h-16.306z"
-                        fill="#F00" />
+                    <path d="M234.287 57.171V12.823H21.774v44.348H5.147v90.869h245.446V57.17h-16.306z" fill="#F00" />
                     <path d="M.71 149.97V52.734H17.34V8.387h221.383v44.347h16.306v97.236H.71zm6.935-3.491l239.552.21-1.038-85.082h-16.31v-44.35H26.206v44.35H9.58l-1.622 82.057-.312 2.815z"
                         fill="#EB1019" />
                     <path d="M32.848 8.02v19.985l7.574 10.247 22.265-7.56-.09-30.178-29.75 7.505z" fill="#FFF" />
@@ -29,8 +27,7 @@
                 </symbol>
                 <symbol viewBox="0 0 256 361" preserveAspectRatio="xMidYMid" aria-labelledby="ahosi-logos-css-3-title" id="si-logos-css-3">
                     <title id="ahosi-logos-css-3-title">logo of css-3</title>
-                    <path d="M127.844 360.088L23.662 331.166.445 70.766h255.11l-23.241 260.36-104.47 28.962z"
-                        fill="#264DE4" />
+                    <path d="M127.844 360.088L23.662 331.166.445 70.766h255.11l-23.241 260.36-104.47 28.962z" fill="#264DE4" />
                     <path d="M212.417 314.547l19.86-222.49H128V337.95l84.417-23.403z" fill="#2965F1" />
                     <path d="M53.669 188.636l2.862 31.937H128v-31.937H53.669zM47.917 123.995l2.903 31.937H128v-31.937H47.917zM128 271.58l-.14.037-35.568-9.604-2.274-25.471h-32.06l4.474 50.146 65.421 18.16.147-.04V271.58z"
                         fill="#EBEBEB" />
@@ -83,8 +80,7 @@
                 </symbol>
                 <symbol viewBox="0 0 256 361" preserveAspectRatio="xMidYMid" aria-labelledby="aoksi-logos-html-5-title" id="si-logos-html-5">
                     <title id="aoksi-logos-html-5-title">logo of html-5</title>
-                    <path d="M255.555 70.766l-23.241 260.36-104.47 28.962-104.182-28.922L.445 70.766h255.11z"
-                        fill="#E44D26" />
+                    <path d="M255.555 70.766l-23.241 260.36-104.47 28.962-104.182-28.922L.445 70.766h255.11z" fill="#E44D26" />
                     <path d="M128 337.95l84.417-23.403 19.86-222.49H128V337.95z" fill="#F16529" />
                     <path d="M82.82 155.932H128v-31.937H47.917l.764 8.568 7.85 88.01H128v-31.937H85.739l-2.919-32.704zM90.018 236.542h-32.06l4.474 50.146 65.421 18.16.147-.04V271.58l-.14.037-35.568-9.604-2.274-25.471z"
                         fill="#EBEBEB" />
@@ -246,8 +242,7 @@
                                 <path fill="url(#avae)" fill-rule="evenodd" d="M50.391.809l-.693.347h.924l-.231-.347z" />
                                 <path d="M106.792 105.636c1.387-.809 2.427-2.196 2.89-3.698L56.053 10.402c-1.387-.231-2.89-.116-4.16.693L3.351 39.065l52.355 95.465a8.057 8.057 0 0 0 2.196-.693l48.889-28.2z"
                                     fill="url(#avaf)" fill-rule="evenodd" />
-                                <path fill="url(#avag)" fill-rule="evenodd" d="M111.3 104.712l-.347-.578v.809l.346-.231z"
-                                />
+                                <path fill="url(#avag)" fill-rule="evenodd" d="M111.3 104.712l-.347-.578v.809l.346-.231z" />
                                 <path d="M106.792 105.636l-48.773 28.085a6.973 6.973 0 0 1-2.196.693l.925 1.734 54.089-31.32v-.694l-1.387-2.312c-.231 1.618-1.271 3.005-2.658 3.814z"
                                     fill="url(#avah)" fill-rule="evenodd" />
                                 <path d="M106.792 105.636l-48.773 28.085a6.973 6.973 0 0 1-2.196.693l.925 1.734 54.089-31.32v-.694l-1.387-2.312c-.231 1.618-1.271 3.005-2.658 3.814z"
@@ -283,8 +278,7 @@
                 </symbol>
                 <symbol viewBox="0 0 256 221" preserveAspectRatio="xMidYMid" aria-labelledby="bfxsi-logos-vue-title" id="si-logos-vue">
                     <title id="bfxsi-logos-vue-title">logo of vue</title>
-                    <path d="M204.8 0H256L128 220.8 0 0h97.92L128 51.2 157.44 0h47.36z" fill="#41B883"
-                    />
+                    <path d="M204.8 0H256L128 220.8 0 0h97.92L128 51.2 157.44 0h47.36z" fill="#41B883" />
                     <path d="M0 0l128 220.8L256 0h-51.2L128 132.48 50.56 0H0z" fill="#41B883" />
                     <path d="M50.56 0L128 133.12 204.8 0h-47.36L128 51.2 97.92 0H50.56z" fill="#35495E" />
                 </symbol>
@@ -297,12 +291,10 @@
                             <stop stop-color="#9CB6E0" offset="100%"></stop>
                         </radialGradient>
                     </defs>
-                    <path d="M128.032.456L.298 74.203v147.495l127.734 73.748 127.735-73.748V74.203L128.032.456z" fill="url(#bgfa)"
-                    />
-                    <path d="M128.034 75.263L64.69 111.834v73.144l63.344 36.572 63.344-36.572v-73.144l-63.344-36.571z" fill="#6F95DB"
-                    />
-                    <path d="M128 0L0 74.25l128 69.693 128-69.238L128 0zM128 153.509L0 221.38l128 73.793 127.544-74.249L128 153.51z"
-                        fill="#FFF" fill-opacity=".1" />
+                    <path d="M128.032.456L.298 74.203v147.495l127.734 73.748 127.735-73.748V74.203L128.032.456z" fill="url(#bgfa)" />
+                    <path d="M128.034 75.263L64.69 111.834v73.144l63.344 36.572 63.344-36.572v-73.144l-63.344-36.571z" fill="#6F95DB" />
+                    <path d="M128 0L0 74.25l128 69.693 128-69.238L128 0zM128 153.509L0 221.38l128 73.793 127.544-74.249L128 153.51z" fill="#FFF"
+                        fill-opacity=".1" />
                 </symbol>
             </defs>
         </svg>
@@ -340,27 +332,37 @@
                             <div class="columns skill-list is-centered is-mobile">
                                 <div class="column is-2">
                                     <a href="http://es6-features.org" target="_blank">
-                                        <svg-icon class="image" alt="javascript logo" type="si-logos-javascript"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si logos-javascript">
+                                            <use xlink:href="#si-logos-javascript"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://www.w3.org/TR/html5/" target="_blank">
-                                        <svg-icon class="image" alt="html5 logo" type="si-logos-html-5"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-html-5"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://www.w3.org/standards/techs/css#w3c_all" target="_blank">
-                                        <svg-icon class="image" alt="css3 logo" type="si-logos-css-3"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-css-3"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://sass-lang.com/" target="_blank">
-                                        <svg-icon class="image" alt="sass logo" type="si-logos-sass"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-sass"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://lesscss.org/" target="_blank">
-                                        <svg-icon class="image" alt="less logo" id="less" type="si-logos-less"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-less"></use>
+                                        </svg>
                                     </a>
                                 </div>
                             </div>
@@ -374,27 +376,37 @@
                             <div class="columns skill-list is-centered is-mobile">
                                 <div class="column is-2">
                                     <a href="https://vuejs.org/v2/guide/" target="_blank">
-                                        <svg-icon class="image" alt="vuejs logo"  type="si-logos-vue"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-vue"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://handlebarsjs.com/" target="_blank">
-                                        <svg-icon class="image" alt="handlebarsjs logo"  type="si-logos-handlebars"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-handlebars"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://lodash.com/" target="_blank">
-                                        <svg-icon class="image" alt="lodash logo" type="si-logos-lodash"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-lodash"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://semantic-ui.com/" target="_blank">
-                                        <svg-icon class="image" alt="semanticui logo" type="si-logos-semantic-ui"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-semantic-ui"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://getbootstrap.com/" target="_blank">
-                                        <svg-icon class="image" alt="bootstrap logo" type="si-logos-bootstrap"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-bootstrap"></use>
+                                        </svg>
                                     </a>
                                 </div>
                             </div>
@@ -410,27 +422,37 @@
                             <div class="columns skill-list is-centered is-mobile">
                                 <div class="column is-2">
                                     <a href="https://nodejs.org/en/" target="_blank">
-                                        <svg-icon class="image" alt="nodejs logo"  type="si-logos-nodejs"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-nodejs"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://expressjs.com/" target="_blank">
-                                        <svg-icon class="image" alt="expressjs logo"  type="si-logos-express"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-express"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://docs.mongodb.com/" target="_blank">
-                                        <svg-icon class="image" alt="mongodb logo"  type="si-logos-mongodb"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-mongodb"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://couchdb.apache.org/" target="_blank">
-                                        <svg-icon class="image" alt="couchdb logo"  type="si-logos-couchdb"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-couchdb"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://www.mysql.com/" target="_blank">
-                                        <svg-icon class="image" alt="MySQL logo"  type="si-logos-mysql"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-mysql"></use>
+                                        </svg>
                                     </a>
                                 </div>
                             </div>
@@ -444,29 +466,36 @@
                             <div class="columns skill-list is-centered is-mobile">
                                 <div class="column is-2">
                                     <a href="https://git-scm.com/" target="_blank">
-                                        <svg-icon class="image" alt="git logo"  type="si-logos-git-icon"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-git-icon"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://webpack.github.io/" target="_blank">
-                                        <svg-icon class="image" alt="webpack logo"  type="si-logos-webpack"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-webpack"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="http://gulpjs.com/" target="_blank">
-                                        <svg-icon class="image" alt="gulp logo"  type="si-logos-gulp"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-gulp"></use>
+                                        </svg>
                                     </a>
                                 </div>
                                 <div class="column is-2">
                                     <a href="https://code.visualstudio.com/" target="_blank">
-                                        <svg-icon class="image" alt="visual studio code logo"  type="si-logos-visual-studio"></svg-icon>
+                                        <svg viewBox="0 0 100 100" class="si">
+                                            <use xlink:href="#si-logos-visual-studio"></use>
+                                        </svg>
                                     </a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="column">
-
                         <div class="columns">
                             <div class="column">
                                 <p class="subtitle">Administration</p>
@@ -475,17 +504,23 @@
                         <div class="columns skill-list is-centered is-mobile">
                             <div class="column is-1">
                                 <a href="https://www.debian.org/distrib/" target="_blank">
-                                    <svg-icon class="image" alt="debian logo"  type="si-logos-debian"></svg-icon>
+                                    <svg viewBox="0 0 100 100" class="si">
+                                        <use xlink:href="#si-logos-debian"></use>
+                                    </svg>
                                 </a>
                             </div>
                             <div class="column is-1">
                                 <a href="https://www.microsoft.com/en-us/download/details.aspx?id=41703" target="_blank">
-                                    <svg-icon class="image" alt="windows server logo"  type="si-logos-microsoft-windows"></svg-icon>
+                                    <svg viewBox="0 0 100 100" class="si">
+                                        <use xlink:href="#si-logos-microsoft-windows"></use>
+                                    </svg>
                                 </a>
                             </div>
                             <div class="column is-1">
                                 <a href="https://www.ubuntu.com/server" target="_blank">
-                                    <svg-icon class="image" alt="ubuntu server logo"  type="si-logos-ubuntu"></svg-icon>
+                                    <svg viewBox="0 0 100 100" class="si">
+                                        <use xlink:href="#si-logos-ubuntu"></use>
+                                    </svg>
                                 </a>
                             </div>
                         </div>
@@ -497,8 +532,6 @@
     </div>
 </template>
 <script>
-    // import svgiconjs from '../assets/svg-icon-element.js'
-    // import svgicons from '../assets/sprites/si-sprite.svg'
     export default {
         name: 'home',
         metaInfo: {
