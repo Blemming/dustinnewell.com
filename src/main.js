@@ -15,7 +15,8 @@ new Vue({
     title: 'Front-end Web Developer',
     titleTemplate: '%s | Dustin Newell',
     link: [{
-      rel: 'favicon',
+      rel: 'icon',
+      type:'image/ico',
       href: '/static/Favicon.ico'
     }],
     meta: [{
