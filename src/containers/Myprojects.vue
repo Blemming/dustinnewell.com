@@ -62,7 +62,8 @@
                       <p>
                         Newly hired at Beaulieu Canada, I was thrown into a project which was already started. I helped by doing a lot of the basic tasks such as
                         integrating the content on the static pages. This is where I learned the basics of PCSoft's Web Dev, a wysiwyg IDE with a programming language
-                        whose syntax is similar to Visual Basic. It is also a full stack solution with easy ways to connect to any type of database.
+                        whose syntax is similar to Visual Basic. It is also a full stack solution with easy ways to connect to any type of database. I learned about
+                        the office work flow and how to work on a project with someone else.
                       </p>
                     </div>
                   </div>
@@ -81,15 +82,11 @@
                   <div class="media-content">
                     <div class="content">
                       <p class="subtitle">Your Homestyle Website</p>
-                      <p>Sleep on dog bed, force dog to sleep on floor find a way to fit in tiny box for fall over dead (not
-                        really but gets sypathy) woops poop hanging from butt must get rid run run around house drag poop
-                        on floor maybe it comes off woops left brown marks on floor human slave clean lick butt now. Claw
-                        drapes woops poop hanging from butt must get rid run run around house drag poop on floor maybe it
-                        comes off woops left brown marks on floor human slave clean lick butt now, but sit by the fire and
-                        plan steps for world domination and refuse to drink water except out of someone's glass purrr purr
-                        littel cat, little cat purr purr. Licks paws shove bum in owner's face like camera lens but i could
-                        pee on this if i had the energy caticus cuteicus pose purrfectly to show my beauty. Purr for no reason.
-                        </p>
+                      <p>
+                        With a little more knowledge about PCSoft's Web Dev, I was tasked to integrate the US version of the website. Beaulieu Canada has an american sister company called
+                        Beaulieu America. Being a sister company, they had different products, warranties and services. WebDev generates the website dynamically so integrating the american
+                        version was tasked to me so I could understand on a deeper level the architecture of Beaulieu's information systems.
+                      </p>
                     </div>
                   </div>
                 </article>
@@ -135,7 +132,7 @@
             <div class="media-content">
               <div class="content">
                 <div class="time-date">June - 2016 <small>Work in progress</small></div>
-                <p><strong><a href="http://www.yourhomestyle.ca/canada/en" target="_blank">YourHomestyle</a></strong> <small>Revamp</small>                  - </p>
+                <p><strong><a href="http://www.yourhomestyle.ca/canada/en" target="_blank">YourHomestyle</a></strong> <small><strong>Revamp</strong></small></p>
               </div>
             </div>
           </div>
@@ -164,7 +161,7 @@ $grey: #ddd
       color: $blue-color
     margin-left: -385px
     .top-border-is-red
-      border-top: 1px solid $grey
+      border-top: 2px dashed #ddd
   p.image
     margin-top: 30px
     img
