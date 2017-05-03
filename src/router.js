@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
+import Meta from 'vue-meta'
 
 import home from './containers/Home.vue'
 import myprojects from './containers/Myprojects.vue'
@@ -7,6 +8,7 @@ import about from './containers/About.vue'
 import error from './containers/Error.vue'
 
 Vue.use(Router)
+Vue.use(Meta)
 
 const routes = [
   { path: '/', component: home },
