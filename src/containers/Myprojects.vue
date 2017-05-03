@@ -10,7 +10,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="has-text-centered">
-                      <a href="http://www.cdcvr.org" target="_blank"><img class="image is-256x256 " src="assets/cdcvr.png" alt="">CDCVR</a>
+                      <a href="http://www.cdcvr.org" target="_blank"><img class="image is-256x256 " src="../assets/cdcvr.jpg" alt="">CDCVR</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -51,7 +51,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.yourhomestyle.ca" target="_blank"><img src="assets/yhscanada.png" alt="">YourHomestyle</a>
+                      <a href="http://www.yourhomestyle.ca" target="_blank"><img src="../assets/yhscanada.jpg" alt="">YourHomestyle</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -75,7 +75,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.beaulieufiberspolymers.com/" target="_blank"><img src="assets/beaulieufibersandpolymers.png" alt="">Beaulieu Fibers and Polymers</a>
+                      <a href="http://www.beaulieufiberspolymers.com/" target="_blank"><img src="../assets/beaulieufibersandpolymers.jpg" alt="">Beaulieu Fibers and Polymers</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -95,7 +95,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.beaulieucanada.ca/presentationyhs/presentation" target="_blank"><img src="assets/yhspresentation.png" alt="">YourHomestyle Presentation</a>
+                      <a href="http://www.beaulieucanada.ca/presentationyhs/presentation" target="_blank"><img src="../assets/yhspresentation.jpg" alt="">YourHomestyle Presentation</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -114,7 +114,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.yourhomestyle.ca/usa/en" target="_blank"><img src="assets/yhsusa.png" alt="">YourHomestyle USA</a>
+                      <a href="http://www.yourhomestyle.ca/usa/en" target="_blank"><img src="../assets/yhsusa.jpg" alt="">YourHomestyle USA</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -138,7 +138,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.beaulieuflooring.com/canada/en" target="_blank"><img src="assets/beaulieuflooring.png" alt="">BeaulieuFlooring</a>
+                      <a href="http://www.beaulieuflooring.com/canada/en" target="_blank"><img src="../assets/beaulieuflooring.jpg" alt="">BeaulieuFlooring</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
