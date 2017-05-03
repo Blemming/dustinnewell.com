@@ -16,7 +16,7 @@ new Vue({
     titleTemplate: '%s | Dustin Newell',
     link: [{
       rel: 'favicon',
-      href: '/static/favicon.ico'
+      href: '/static/Favicon.ico'
     }],
     meta: [{
         charset: 'utf-8'
