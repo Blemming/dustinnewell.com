@@ -555,7 +555,7 @@
         box-shadow: 0px 24px 3px -24px #4a4a4a;
     }
 
-    svg-icon svg {
+    svg {
         width: 3em;
         -webkit-filter: grayscale(1);
         fill: black;

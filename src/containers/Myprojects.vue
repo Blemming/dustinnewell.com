@@ -15,13 +15,13 @@
                   </div>
                   <div class="column is-three-quarters">
                     <div class="content">
-                      <p class="subtitle">CDCVR.org</p>
+                      <p class="subtitle">CDCVR.org website</p>
                       <p>
                         My first job straight out of school. It's a little rough around the edges but it does what it is suposed to. My client wanted
                         a portal with a few requirements; be able to post news on the home page, dynamic calendar of events,
                         a list of their members, a list of their employees and a way to manage all this content. I made a
                         simple CMS with PHP and MySQL. The front-end is basic HTML, CSS with a little JQuery. Sadly I had
-                        not learned about responsive web design yet, so the website is not responsive. In retrospective,
+                        not learned about responsive web design yet, so the website is not responsive. In retrospect,
                         I find the design a bit dry. If I could start over, I would've chosen different colors, made better
                         use of white spaces, wouldn't have made everything so square, probably added more images, made the
                         text smaller and make the website responsive. This project was a good learning experience, I learned;
@@ -56,7 +56,7 @@
                   </div>
                   <div class="column is-three-quarters">
                     <div class="content">
-                      <p class="subtitle">Your Homestyle Website</p>
+                      <p class="subtitle">Your Homestyle website</p>
                       <p>
                         Newly hired at Beaulieu Canada, I was thrown into a project which was already started. I helped by doing a lot of the basic
                         tasks such as integrating the content on the static pages. This is where I learned the basics of
@@ -80,9 +80,14 @@
                   </div>
                   <div class="column is-three-quarters">
                     <div class="content">
-                      <p class="subtitle">Beaulieu Fibers and Polymers</p>
+                      <p class="subtitle">Beaulieu Fibers and Polymers website</p>
                       <p>
-
+                        I was given the task to build a static website for a Beaulieu cousin company. Because the website had to be responsive, I would not use PCSoft's Webdev. Given 
+                        the scope of the project Webdev would have been overkill either way. I viewed this opportunity to brush up my classic front-end skills. I was provided with a wireframe
+                        and content, the rest was up to me. I used the classic JQuery and a few simple javascript libraries for the parallax scrolling and sliders. Being a beginner developer 
+                        I did not know about bootstrap or css frameworks, so the css is all hand written. In retrospect, given the opportunity I would completely revamp the website. Parallax 
+                        scrolling was a fad, scrolljacking is bad UX practice. Also, I do not like to use JQuery, I prefer to write my selectors myself. There is also a lot to be done about
+                        the design; choice of fonts, choice of icons and layout all need work.
                       </p>
                     </div>
                   </div>
@@ -102,6 +107,9 @@
                     <div class="content">
                       <p class="subtitle">Your Homestyle Presentation</p>
                       <p>
+                        I was tasked to build a good looking web presentation that would be displayed over tablets for a flooring convention. I did a bit of research and decided that Reveal.js would 
+                        would meet the requirements. I put together the content and modified some of the css to give it a better suited look, fitting Beaulieu's needs. I practiced some of my css skills 
+                        and learned more about Javascript.
                       </p>
                     </div>
                   </div>
@@ -119,13 +127,38 @@
                   </div>
                   <div class="column is-three-quarters">
                     <div class="content">
-                      <p class="subtitle">American Your Homestyle Website</p>
+                      <p class="subtitle">American Your Homestyle website</p>
                       <p>
                         With a little more knowledge about PCSoft's Web Dev, I was tasked to integrate the US version of the website. Beaulieu Canada
                         has an american sister company called Beaulieu America. Being a sister company, they had different
                         products, warranties and services. WebDev generates the website dynamically so integrating the american
-                        version was tasked to me so I could understand on a deeper level the architecture of Beaulieu's information
-                        systems.
+                        version was not a very difficult task. I was tasked this project so I could better understand the architecture of Beaulieu's information
+                        systems. My experience with the wysiwyg editor was not an enjoyable one. The Webdev editor makes menial tasks more complicated and removes
+                        control from it's user. Webdev at the time also did not allow the possibility of a responsive website.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="time-item">
+              <div class="item-content">
+                <div class="columns time-break">
+                <div class="column is-one-quarter">
+                  <div class="content">
+                <div>Summer - 2016</div>
+                  </div>
+                </div>
+                  <div class="column is-three-quarters">
+                    <div class="content">
+                      <p class="subtitle">Research and Development <small>aka learn as we go</small></p>
+                      <p>
+                        Faced with my frustrating experience with Webdev and Beaulieu's marketing desire for a responsive website I researched for a solution. Beaulieu did not have the 
+                        resources to change the backend from Webdev. So I looked for a way to connect it's backend to a normal front-end. The solution I found was to create a simple RESTful API
+                        with Webdev and query it with a normal front-end. Giving me full control of the front-end and saving the company the cost of extra pricy Webdev licenses. The only trouble was 
+                        that Webdev at the time was not designed to build a RESTful API, so if this were to be a public facing API the security risks would be enormous. I decided to learn Node and Express
+                        to build a proxy for the API. While learning Node and Express I fell in love with Javascript and finally decided to build the whole Beaulieu Flooring website with it. I used Express-Handlebars for the
+                        server side templating and Vue (which I also fell in love with) for the simple client-side Javascript.
                       </p>
                     </div>
                   </div>
@@ -143,11 +176,16 @@
                   </div>
                   <div class="column is-three-quarters">
                     <div class="content">
-                      <p class="subtitle">Your Homestyle Website</p>
+                      <p class="subtitle">Beaulieu Flooring website</p>
                       <p>
+                        Beaulieu had hired a web designer. I worked with him to create the design for the new responsive website. Knowing that technology would no longer be holding us back,
+                        we set our sights high. I used bootstrap to ease the building of the responsive website and font-awesome for the icons. The images and content was provided to me. The about 
+                        section contained too much content for me to manage and develop at the same time so I installed an instance of <a href="https://getcockpit.com/">Cockpit CMS</a> and modified it's 
+                        Javascript script to work directly into Node instead of directly on the client side. This way the marketing could easily change the highly changing specs and I could spend more time
+                        developing the website. In retrospect, when I will have the time, I want to make the website more mobile-first, removing a lot of unnecessary UX components. I also want to use more vue 
+                        and webpack to prerender the website to enhance performance and SEO. I also in the near future, want to develop a more complete headless API to manage more of the content on all websites.
                       </p>
                     </div>
-
                   </div>
                 </div>
               </div>
@@ -160,7 +198,7 @@
       <div class="columns is-centered">
         <div class="column is-two-thirds">
           <div class="content">
-            <div class="time-date">June - 2016 <small>Work in progress</small></div>
+            <div class="time-date">June - 2017 <small>Work in progress</small></div>
             <p><strong><a href="http://www.yourhomestyle.ca/canada/en" target="_blank">YourHomestyle</a></strong> <small><strong>Revamp</strong></small></p>
           </div>
         </div>
