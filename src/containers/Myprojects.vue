@@ -17,10 +17,10 @@
                     <div class="content">
                       <p class="subtitle">CDCVR.org website</p>
                       <p>
-                        My first job straight out of school. It's a little rough around the edges but it does what it is suposed to. My client wanted
+                        My first job straight out of school. It's a little rough around the edges, but it does what it is supposed to. My client wanted
                         a portal with a few requirements; be able to post news on the home page, dynamic calendar of events,
                         a list of their members, a list of their employees and a way to manage all this content. I made a
-                        simple CMS with PHP and MySQL. The front-end is basic HTML, CSS with a little JQuery. Sadly I had
+                        simple CMS with PHP and MySQL. The front-end is basic HTML, CSS with a little JQuery. Sadly, I had
                         not learned about responsive web design yet, so the website is not responsive. In retrospect,
                         I find the design a bit dry. If I could start over, I would've chosen different colors, made better
                         use of white spaces, wouldn't have made everything so square, probably added more images, made the
@@ -60,9 +60,9 @@
                       <p>
                         Newly hired at Beaulieu Canada, I was thrown into a project which was already started. I helped by doing a lot of the basic
                         tasks such as integrating the content on the static pages. This is where I learned the basics of
-                        PCSoft's Web Dev, a wysiwyg IDE with a programming language whose syntax is similar to Visual Basic.
+                        PCSoft's Web Dev, a WYSIWYG IDE with a programming language whose syntax is similar to Visual Basic.
                         It is also a full stack solution with easy ways to connect to any type of database. I learned about
-                        the office work flow and how to work on a project with someone else.
+                        the office workflow and how to work on a project with someone else.
                       </p>
                     </div>
                   </div>
@@ -83,9 +83,9 @@
                       <p class="subtitle">Beaulieu Fibers and Polymers website</p>
                       <p>
                         I was given the task to build a static website for a Beaulieu cousin company. Because the website had to be responsive, I would not use PCSoft's Webdev. Given 
-                        the scope of the project Webdev would have been overkill either way. I viewed this opportunity to brush up my classic front-end skills. I was provided with a wireframe
+                        the scope of the project Webdev would have been overkill either way. I viewed this opportunity to brush up my classic front-end skills. I was provided with a wire frame
                         and content, the rest was up to me. I used the classic JQuery and a few simple javascript libraries for the parallax scrolling and sliders. Being a beginner developer 
-                        I did not know about bootstrap or css frameworks, so the css is all hand written. In retrospect, given the opportunity I would completely revamp the website. Parallax 
+                        I did not know about bootstrap or css frameworks, so the css is all handwritten. In retrospect, given the opportunity I would completely revamp the website. Parallax 
                         scrolling was a fad, scrolljacking is bad UX practice. Also, I do not like to use JQuery, I prefer to write my selectors myself. There is also a lot to be done about
                         the design; choice of fonts, choice of icons and layout all need work.
                       </p>
@@ -130,10 +130,10 @@
                       <p class="subtitle">American Your Homestyle website</p>
                       <p>
                         With a little more knowledge about PCSoft's Web Dev, I was tasked to integrate the US version of the website. Beaulieu Canada
-                        has an american sister company called Beaulieu America. Being a sister company, they had different
-                        products, warranties and services. WebDev generates the website dynamically so integrating the american
+                        has an American sister company called Beaulieu America. Being a sister company, they had different
+                        products, warranties and services. WebDev generates the website dynamically so integrating the American
                         version was not a very difficult task. I was tasked this project so I could better understand the architecture of Beaulieu's information
-                        systems. My experience with the wysiwyg editor was not an enjoyable one. The Webdev editor makes menial tasks more complicated and removes
+                        systems. My experience with the WYSIWYG editor was not an enjoyable one. The Webdev editor makes menial tasks more complicated and removes
                         control from it's user. Webdev at the time also did not allow the possibility of a responsive website.
                       </p>
                     </div>
@@ -182,7 +182,7 @@
                         we set our sights high. I used bootstrap to ease the building of the responsive website and font-awesome for the icons. The images and content was provided to me. The about 
                         section contained too much content for me to manage and develop at the same time so I installed an instance of <a href="https://getcockpit.com/">Cockpit CMS</a> and modified it's 
                         Javascript script to work directly into Node instead of directly on the client side. This way the marketing could easily change the highly changing specs and I could spend more time
-                        developing the website. In retrospect, when I will have the time, I want to make the website more mobile-first, removing a lot of unnecessary UX components. I also want to use more vue 
+                        developing the website. In retrospect, when I will have the time, I want to make the website more mobile-first, removing a lot of unnecessary UX components. I also want to use more Vue 
                         and webpack to prerender the website to enhance performance and SEO. I also in the near future, want to develop a more complete headless API to manage more of the content on all websites.
                       </p>
                     </div>

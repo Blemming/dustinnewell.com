@@ -15,16 +15,16 @@
             <div class="column is-three-quarters">
                 <div class="content has-text-left">
                   <p><strong>I’m a Front-end web developer. </strong>I create interactions and user experiences using mostly
-                    javascript. I've been coding for 4 years and have been using Vuejs for one year. I like to learn the
+                    javascript. I've been coding for 3 years and have been using Vuejs for one year. I like to learn the
                     latest technologies.</p>
-                  <p>I have a basic understanding of PHP, Ruby and .NET backends but I am proficient in Node and Express backends.
+                  <p>I have a basic understanding of PHP, Ruby and .NET backend, but I am proficient in Node and Express backend.
                     I am confortable with REST principles, JSON and XML.</p>
-                  <p>I am a strong advocate for self-hosting and open source solutions. I currently own a ubuntu server on which
-                    I run multiple self hosted multimedia solutions, all of which use docker. I also own a raspberry pi which
+                  <p>I am a strong advocate for self-hosting and open source solutions. I currently own a Ubuntu server on which
+                    I run multiple self hosted multimedia solutions, all of which use docker. I also own a raspberry pi, which
                     I currently use as an internal DNS server.</p>
                   <p>On my free time I like to play video games, drink dark roast coffee and from time to time savour craft
                     beer. My current favorite is <a href="http://www.bieresduquebec.ca/bieres/microbrasserie-le-grimoire/la-vie-de-chateau.html"
-                      target="_blank">La Vie de Chateau</a> by the microbrewer La grimoire.</p>
+                      target="_blank">La Vie de Chateau</a> by the microbrewery La grimoire.</p>
                 </div>
             </div>
           </div>
