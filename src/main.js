@@ -1,12 +1,19 @@
 import Vue from 'vue'
 import router from './router'
 import App from './App.vue'
+import VueAnalytics from 'vue-analytics'
 
 // Front-end components
 import ityped from 'ityped'
 import Bulma from 'bulma'
 import FontAwesome from 'font-awesome/css/font-awesome.css'
 // import svgIcon from './assets/svg-icon-element'
+
+Vue.use(VueAnalytics, {
+  id: 'UA-98606609-1',
+  router,
+  
+})
 
 new Vue({
   el: '#app',
