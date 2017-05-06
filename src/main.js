@@ -59,7 +59,7 @@ new Vue({
       },
       {
         property:'og:img',
-        content: 'assets/ogcapture.JPG'
+        content: '/static/ogcapture.JPG'
       },
       {
         property:'og:description',
