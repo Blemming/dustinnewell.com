@@ -2,6 +2,7 @@ import Vue from 'vue'
 import router from './router'
 import App from './App.vue'
 import VueAnalytics from 'vue-analytics'
+import Meta from 'vue-meta'
 
 // Front-end components
 import ityped from 'ityped'
@@ -15,6 +16,7 @@ Vue.use(VueAnalytics, {
   
 })
 
+Vue.use(Meta)
 new Vue({
   el: '#app',
   render: h => h(App),
@@ -24,7 +26,7 @@ new Vue({
     link: [{
       rel: 'icon',
       type:'image/ico',
-      href: '/static/Favicon.ico'
+      href: '/static/favicon.ico'
     }],
     meta: [{
         charset: 'utf-8'
@@ -59,7 +61,7 @@ new Vue({
       },
       {
         property:'og:img',
-        content: '/static/ogcapture.JPG'
+        content: '/static/ogcapture.jpg'
       },
       {
         property:'og:description',

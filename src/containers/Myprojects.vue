@@ -96,7 +96,7 @@
             </div>
             <div class="time-item">
               <div class="item-content">
-                <div class="time-date">Febuary - 2016</div>
+                <div class="time-date">February - 2016</div>
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
@@ -209,7 +209,10 @@
 
 <script>
   export default {
-    name: 'myprojects'
+    name: 'myprojects',
+        metaInfo: {
+            title: 'My projects'
+        }
   }
 </script>
 

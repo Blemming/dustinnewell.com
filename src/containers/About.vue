@@ -46,7 +46,10 @@
 
 <script>
   export default {
-    name: 'about'
+    name: 'about',
+        metaInfo: {
+            title: 'About me'
+        }
   }
 </script>
 
