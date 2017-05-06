@@ -26,7 +26,7 @@ new Vue({
     link: [{
       rel: 'icon',
       type:'image/ico',
-      href: '/static/favicon.ico'
+      href: './static/favicon.ico'
     }],
     meta: [{
         charset: 'utf-8'
@@ -61,7 +61,7 @@ new Vue({
       },
       {
         property:'og:img',
-        content: '/static/ogcapture.jpg'
+        content: './static/ogcapture.jpg'
       },
       {
         property:'og:description',
