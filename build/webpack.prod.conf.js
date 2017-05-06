@@ -9,6 +9,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 var OptimizeCSSPlugin = require('optimize-css-assets-webpack-plugin')
 var HtmlWebpackInlineSourcePlugin = require('html-webpack-inline-source-plugin')
+var PrerenderSpaPlugin = require('prerender-spa-plugin')
 
 var env = config.build.env
 
@@ -91,7 +92,13 @@ var webpackConfig = merge(baseWebpackConfig, {
       from: path.resolve(__dirname, '../static'),
       to: config.build.assetsSubDirectory,
       ignore: ['.*']
-    }])
+    }]),
+    new PrerenderSpaPlugin(
+    // Path to compiled app
+    path.join(__dirname, '../dist'),
+    // List of endpoints you wish to prerender
+    [ '/','/about','/projects' ]
+    )
   ]
 })
 
