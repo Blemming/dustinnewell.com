@@ -23,11 +23,6 @@ new Vue({
   metaInfo: {
     title: 'Front-end Web Developer',
     titleTemplate: '%s | Dustin Newell',
-    link: [{
-      rel: 'icon',
-      type:'image/ico',
-      href: './static/favicon.ico'
-    }],
     meta: [{
         charset: 'utf-8'
       },
@@ -50,22 +45,6 @@ new Vue({
       {
         name: 'robots',
         content: 'index, follow, archive'
-      },
-      {
-        property:'og:title',
-        content: 'Dustin Newell - Front-end web developer'
-      },
-      {
-        property:'og:url',
-        content: 'http://www.dustinnewell.com'
-      },
-      {
-        property:'og:img',
-        content: './static/ogcapture.jpg'
-      },
-      {
-        property:'og:description',
-        content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
       }
     ]
   },
