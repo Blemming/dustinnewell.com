@@ -48,6 +48,22 @@ new Vue({
       {
         name: 'robots',
         content: 'index, follow, archive'
+      },
+      {
+        property:'og:title',
+        content: 'Dustin Newell - Front-end web developer'
+      },
+      {
+        property:'og:url',
+        content: 'http://www.dustinnewell.com'
+      },
+      {
+        property:'og:img',
+        content: 'assets/ogcapture.JPG'
+      },
+      {
+        property:'og:description',
+        content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
       }
     ]
   },
