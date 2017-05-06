@@ -35,6 +35,22 @@ new Vue({
         content: 'width=device-width, initial-scale=1'
       },
       {
+        property: 'og:title',
+        content: 'Dustin Newell Front-end web developer'
+      },
+      {
+        property: 'og:description',
+        content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
+      },
+      {
+        property: 'og:url',
+        content: 'http://www.dustinnewell.com'
+      },
+      {
+        property: 'og:img',
+        content: 'http://www.dustinnewell.com/static/ogcapture.jpg'
+      },
+      {
         name: 'description',
         content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
       },
