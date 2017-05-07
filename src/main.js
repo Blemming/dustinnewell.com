@@ -57,6 +57,10 @@ new Vue({
       {
         name: 'robots',
         content: 'index, follow, archive'
+      },
+      {
+        name: 'google-site-verification',
+        content: 'ly1DSr05q8jnyuOV73fCkp0yb9CLlkFVkj4kg7E4his'
       }
     ]
   },
