@@ -23,6 +23,13 @@ new Vue({
   metaInfo: {
     title: 'Front-end Web Developer',
     titleTemplate: '%s | Dustin Newell',
+    link:[
+      {
+        rel: 'alternate',
+        hreflang: 'en',
+        href:'http://www.dustinnewell.com/'
+      }
+    ],
     meta: [{
         charset: 'utf-8'
       },
