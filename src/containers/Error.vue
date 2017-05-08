@@ -1,5 +1,5 @@
 <template lang="html">
-    <div class="container">
+    <div class="container" id="error-page">
         <div class="columns is-centered">
             <div class="column is-two-thirds has-text-centered">
                 <section class="section">
@@ -58,7 +58,7 @@ export default{
 }
 </script>
 <style>
-svg{
+#error-page svg{
     width: 50vh;
     height: 50vh;
 }
