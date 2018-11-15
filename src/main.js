@@ -2,6 +2,7 @@ import Vue from 'vue'
 import router from './router'
 import App from './App.vue'
 import VueAnalytics from 'vue-analytics'
+import Meta from 'vue-meta'
 
 // Front-end components
 import ityped from 'ityped'
@@ -15,17 +16,20 @@ Vue.use(VueAnalytics, {
   
 })
 
+Vue.use(Meta)
 new Vue({
   el: '#app',
   render: h => h(App),
   metaInfo: {
     title: 'Front-end Web Developer',
     titleTemplate: '%s | Dustin Newell',
-    link: [{
-      rel: 'icon',
-      type:'image/ico',
-      href: '/static/Favicon.ico'
-    }],
+    link:[
+      {
+        rel: 'alternate',
+        hreflang: 'en',
+        href:'http://www.dustinnewell.com/'
+      }
+    ],
     meta: [{
         charset: 'utf-8'
       },
@@ -38,8 +42,20 @@ new Vue({
         content: 'width=device-width, initial-scale=1'
       },
       {
-        name: 'description',
+        property: 'og:title',
+        content: 'Dustin Newell Front-end web developer'
+      },
+      {
+        property: 'og:description',
         content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
+      },
+      {
+        property: 'og:url',
+        content: 'http://www.dustinnewell.com'
+      },
+      {
+        property: 'og:image',
+        content: 'http://www.dustinnewell.com/static/ogcapture.jpg'
       },
       {
         name: 'description',
@@ -50,20 +66,8 @@ new Vue({
         content: 'index, follow, archive'
       },
       {
-        property:'og:title',
-        content: 'Dustin Newell - Front-end web developer'
-      },
-      {
-        property:'og:url',
-        content: 'http://www.dustinnewell.com'
-      },
-      {
-        property:'og:img',
-        content: '/static/ogcapture.JPG'
-      },
-      {
-        property:'og:description',
-        content: 'Dustin Newell is a front-end web developer who loves javascript, coffee and craft beer.'
+        name: 'google-site-verification',
+        content: 'ly1DSr05q8jnyuOV73fCkp0yb9CLlkFVkj4kg7E4his'
       }
     ]
   },

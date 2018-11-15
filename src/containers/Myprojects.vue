@@ -96,7 +96,7 @@
             </div>
             <div class="time-item">
               <div class="item-content">
-                <div class="time-date">Febuary - 2016</div>
+                <div class="time-date">February - 2016</div>
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
@@ -171,7 +171,7 @@
                 <div class="columns">
                   <div class="column">
                     <p class="image has-text-centered">
-                      <a href="http://www.beaulieuflooring.com/canada/en" target="_blank"><img src="../assets/beaulieuflooring.jpg" alt="">BeaulieuFlooring</a>
+                      <a href="http://www.beaulieucanada.com/en" target="_blank"><img src="../assets/beaulieuflooring.jpg" alt="">BeaulieuFlooring</a>
                     </p>
                   </div>
                   <div class="column is-three-quarters">
@@ -191,6 +191,24 @@
               </div>
             </div>
             <div class="time-item">
+              <div class="item-content">
+                <div class="time-date">February - 2017</div>
+                <div class="columns">
+                  <div class="column">
+                    <p class="image has-text-centered">
+                      <a href="http://www.yourhomestyle.com/en" target="_blank"><img src="../assets/yourhomestyleNEW.png" alt="">YourHomestyle</a>
+                    </p>
+                  </div>
+                  <div class="column is-three-quarters">
+                    <div class="content">
+                      <p class="subtitle">YourHomestyle Revamp</p>
+                      <p>
+
+                        </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -198,8 +216,8 @@
       <div class="columns is-centered">
         <div class="column is-two-thirds">
           <div class="content">
-            <div class="time-date">June - 2017 <small>Work in progress</small></div>
-            <p><strong><a href="http://www.yourhomestyle.ca/canada/en" target="_blank">YourHomestyle</a></strong> <small><strong>Revamp</strong></small></p>
+            <div class="time-date">December - 2017 <small>Work in progress</small></div>
+            <p><strong><a href="http://www.peerlesscanada.com" target="_blank">Peerless Flooring</a></strong> <small><strong>Revamp</strong></small></p>
           </div>
         </div>
       </div>
@@ -209,7 +227,10 @@
 
 <script>
   export default {
-    name: 'myprojects'
+    name: 'myprojects',
+        metaInfo: {
+            title: 'My projects'
+        }
   }
 </script>
 
