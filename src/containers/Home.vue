@@ -310,7 +310,7 @@
                             <p class="has-bottom-border"><span><a href="mailto:developer@dustinnewell.com">developer@dustinnewell.com</a></span></p>
                             <p class="has-text-centered">
                                 <a class="icon is-large is-dark" target="_blank" href="https://www.linkedin.com/in/dustin-newell-8a622997/"><i class="fa fa-linkedin fa-5" aria-hidden="true"></i></a>
-                                <a class="icon is-large is-dark" target="_blank" href="https://1drv.ms/b/s!Am4okBU5C8O-jkXN1M4YzvZi_jmD"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>
+                                <a class="icon is-large is-dark" target="_blank" href="https://1drv.ms/b/s!Am4okBU5C8O-kk3pibmAPczGpuJF"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>
                             </p>
                         </div>
                     </div>
